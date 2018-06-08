@@ -1,0 +1,86 @@
+.logo_image{
+  width: 150px;
+  text-align: left;
+}
+.header {
+  background-color: aqua;
+  margin-left: 65px;
+  margin-right: auto;
+}
+.hr {
+  border: none;
+  height: 5px;
+  background-color: darkslategrey;
+  margin-left:70px;
+  margin-right:70px;
+}
+
+h1,
+.h1 {
+  text-align: right;
+  font-size: 2.5em;
+  font-family: "Lobster" cursive;
+  color: mediumvioletred;
+  margin-top: 5px;
+  margin-bottom: 0;
+  text-transform:uppercase;
+}
+h4,
+.h4 {
+  text-align: right;
+  text-transform: uppercase;
+  color:firebrick;
+}
+
+.img-responsive {
+  display: block;
+  max-width:100%;
+  height:auto; !important;
+}
+#img-main{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:90%;
+}
+.container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+.img_resp {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
+}
+.row-work {
+  width: 100%;
+  margin-top: 35px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.work-img {
+  width: 90%;
+  text-align: center;
+}
+.work-feature{
+  font-family: "Lobster" cursive;
+  text-align: center;
+  color:brown;
+  margin-left: auto;
+  margin-right: auto;
+}
